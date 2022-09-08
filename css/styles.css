@@ -1,0 +1,17 @@
+body {
+    background-color: lightslategray;
+    font-family: "Lucida Console", "Courier New", monospace;
+    cursor: all-scroll;
+}
+
+#image1 {
+    border: 10px solid white;
+    border-radius: 5px 5px;
+    height: 22%;
+    width: 30%;
+}
+
+.header {
+
+    text-align: center;
+}
